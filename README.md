@@ -7,6 +7,6 @@
 
 | content      | link                                                            |
 | -----------  | ----------------------------------------------------------------|
-| KIT          |[Click HERE]( )|
-| MarkDown     |[Click HERE]() |
+| KIT          |[Click HERE](https://sukina12.github.io/GitSummary/ )|
+| MarkDown     |[Click HERE](https://sukina12.github.io/Markdown/) |
 |Growth Mindest|[Click HERE]()|
