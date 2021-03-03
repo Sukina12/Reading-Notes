@@ -9,4 +9,4 @@
 | -----------  | ----------------------------------------------------------------|
 | KIT          |[Click HERE](https://sukina12.github.io/GitSummary/ )|
 | MarkDown     |[Click HERE](https://sukina12.github.io/Markdown/) |
-|Growth Mindest|[Click HERE]()|
+|Growth Mindest|[Click HERE](https://sukina12.github.io/GrowthMindset/)|
