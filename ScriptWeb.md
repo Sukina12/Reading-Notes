@@ -43,5 +43,15 @@ A variable is a good name for this concept because the data storedin a variable 
   2. Numeric Data type
   3. Boolean Data type
 
+
+### apply The codes step:
+ It is best to keep JavaScript code in its own JavaScript
+file. JavaScript files are text files (like HTML pages and
+CSS style sheets), but they have the . j s extension. and Put its name with extension in the code
+
+
+You may see JavaScript in the HTML between opening <script> and closing </script> tags
+
+
   ***Thank You***
   **Sukina AbuHammad**
