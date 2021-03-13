@@ -18,6 +18,6 @@
 | HTML         |[Click HERE](https://sukina12.github.io/HTml/ )|
 |Introduction CSS|[Click HERE](https://sukina12.github.io/IntroductionCSS/ )|
 | Introduction JavaScript|[Click HERE](https://sukina12.github.io/JSIntro/ )|
-|Operators and Loops |[Click HERE](https://sukina12.github.io/OperatorsAndLoops/ )|
+|Operators and Loops |[Click HERE](https://sukina12.github.io/ReadingNotes/OperatorsAndLoops )|
 | Script Web         |[Click HERE](https://sukina12.github.io/ScriptWeb/ )|
 
