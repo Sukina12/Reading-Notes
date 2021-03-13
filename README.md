@@ -12,7 +12,7 @@
 | content      | link                                                            |
 | -----------  | ----------------------------------------------------------------|
 | KIT          |[Click HERE](https://sukina12.github.io/GitSummary/ )|
-| MarkDown     |[Click HERE](https://sukina12.github.io/ReadingNotes/Markdown/) |
+| MarkDown     |[Click HERE](https://sukina12.github.io/Markdown/) |
 |Growth Mindest|[Click HERE](https://sukina12.github.io/GrowthMindset)|
 | Computer Work|[Click HERE](https://sukina12.github.io/ReadingNotes/ComputerWork)|
 | HTML         |[Click HERE](https://sukina12.github.io/ReadingNotes/HTml )|
