@@ -2,7 +2,7 @@
 
 ## INTRO :
 #### Hi ...I'm Sukina AbuHammad, 31 years old, Graduated from Yarmouk University as a biomedical Engineer
-#### This Opportunity will give me a chance to learn Programmingand develope my skills as an Engineer
+#### This Opportunity will give me a chance to learn Programming and develope my skills as an Engineer
 
 [MyGitHub](https://github.com/Sukina12)
 
