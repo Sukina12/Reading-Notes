@@ -11,13 +11,13 @@
 
 | content      | link                                                            |
 | -----------  | ----------------------------------------------------------------|
-| KIT          |[Click HERE](https://sukina12.github.io/GitSummary/ )|
-| MarkDown     |[Click HERE](https://sukina12.github.io/Markdown/) |
-|Growth Mindest|[Click HERE](https://sukina12.github.io/GrowthMindset)|
-| Computer Work|[Click HERE](https://sukina12.github.io/ComputerWork)|
-| HTML         |[Click HERE](https://sukina12.github.io/HTml )|
-|Introduction CSS|[Click HERE](https://sukina12.github.io/IntroductionCSS )|
-| Introduction JavaScript|[Click HERE](https://sukina12.github.io/JSIntro )|
+| KIT          |[Click HERE](https://sukina12.github.io/ReadingNotes/GitSummary/ )|
+| MarkDown     |[Click HERE](https://sukina12.github.io/ReadingNotes/ReadingNotes/Markdown/) |
+|Growth Mindest|[Click HERE](https://sukina12.github.io/ReadingNotes/GrowthMindset)|
+| Computer Work|[Click HERE](https://sukina12.github.io/ReadingNotes/ComputerWork)|
+| HTML         |[Click HERE](https://sukina12.github.io/ReadingNotes/HTml )|
+|Introduction CSS|[Click HERE](https://sukina12.github.io/ReadingNotes/IntroductionCSS )|
+| Introduction JavaScript|[Click HERE](https://sukina12.github.io/ReadingNotes/JSIntro )|
 |Operators and Loops |[Click HERE](https://sukina12.github.io/ReadingNotes/OperatorsAndLoops )|
-| Script Web         |[Click HERE](https://sukina12.github.io/ScriptWeb )|
+| Script Web         |[Click HERE](https://sukina12.github.io/ReadingNotes/ScriptWeb )|
 
