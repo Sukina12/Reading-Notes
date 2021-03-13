@@ -127,6 +127,7 @@ Simple HTML Code:
 -->
 
 ***************************************************************************************************************
+
 ## Process & Design:
 
 * It's important to understand w XX ho your target audience is, why they would come to your site, what information they want to find and when they are likely to return.
@@ -160,6 +161,7 @@ Simple HTML Code:
 6. Borders
 
 ***************************************************************************************************************
+
 # JafaScript Introduction 
 
 * JafaScript is a series of instructions that a coputer can follow to acheive a goal
@@ -171,6 +173,7 @@ Simple HTML Code:
 * JavaScript is easy to learn.
 
 #### JafaScript makes WebPages More interactive by:
+
 1. Access Content
 2. Modify Content
 3. Program Rules
@@ -179,6 +182,7 @@ Simple HTML Code:
 * To approch writing a scriot, break down your goal into a series of tasks and then work out eash step needed to complete that task ( using flow chart)
 
 #### An expression evaluates into a single value, there are tow expressions :
+
 1. Expression that assign a value to a variable
 2. Expression that use two or more values to a return a single value
 
@@ -189,6 +193,7 @@ Simple HTML Code:
 * To create a Function, give it a name and then write the statements needed to acheive its task inside the curly braces.
 
 #### HTML  is a content Layer 
+
 * This is where the content of the page lives 
 * The HTML gives the page structure and adds semantics.
 
@@ -226,6 +231,7 @@ data in variables
 * A variable is a good name for this concept because the data storedin a variable can change (or vary)each time a script runs. 
   
   #### Data Type:
+  
   1. String Data type
   2. Numeric Data type
   3. Boolean Data type
