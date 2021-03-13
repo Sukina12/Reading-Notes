@@ -31,7 +31,7 @@
 
 | content      | link                                                            |
 | -----------  | ----------------------------------------------------------------|
-|              |[Click HERE]( )|
+| Class-01     |[Click HERE](https://sukina12.github.io/ReadingNotes/class-01)|
 |              |[Click HERE]( )|
 |              |[Click HERE]( )|
 |              |[Click HERE]( )|
