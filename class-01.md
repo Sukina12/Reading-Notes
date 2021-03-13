@@ -62,11 +62,12 @@ Simple HTML Code:
 <!-- <p class="important admittance">Hours: 10:00 – 18:00
 (No admittance after 17:30)</p> -->
 
+
 #### Block Element:
 
 * Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
 
-* <!-- Examples of block elements are <h1>, <p>, <ul>, and <li>. __>
+* <!-- Examples of block elements are <h1>, <p>, <ul>, and <li>. -->
 
 #### Inline Element:
 
