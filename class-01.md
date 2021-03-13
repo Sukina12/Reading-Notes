@@ -120,7 +120,7 @@ Simple HTML Code:
 * It can be used to contain any content that is referenced from the main flow of an article (not just images).
 
 
-***************************************************************************************************************
+*******************************************************************************************************************************************************
 
 
 ## Process & Design:
@@ -142,7 +142,7 @@ Simple HTML Code:
 #### Visual hierarchy :
 
 * Most web users do not read entire pages. Rather, they skim to find information. You can use contrast to create a visual hierarchy that gets across your key message and helps users find what they are looking for:
-* 
+
 1. size
 2. color
 3. style
@@ -160,7 +160,7 @@ Simple HTML Code:
 ***************************************************************************************************************
 
 
-# JafaScript Introduction 
+## JafaScript Introduction 
 
 * JafaScript is a series of instructions that a coputer can follow to acheive a goal
 
@@ -169,7 +169,7 @@ Simple HTML Code:
 * JavaScript is the programming language of the Web.
 
 * JavaScript is easy to learn.
-* 
+
 
 #### JafaScript makes WebPages More interactive by:
 
@@ -179,7 +179,7 @@ Simple HTML Code:
 4. React to Events
 
 * To approch writing a scriot, break down your goal into a series of tasks and then work out eash step needed to complete that task ( using flow chart)
-* 
+ 
 
 #### An expression evaluates into a single value, there are tow expressions :
 
@@ -240,9 +240,10 @@ data in variables
 
 #### You may see JavaScript in the HTML between opening <script> and closing </script> tags
 
+
 **Thank You**
 
-*Sukina AbuHammad*
+**Sukina AbuHammad**
 
 
 
