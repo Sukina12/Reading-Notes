@@ -147,12 +147,14 @@ Simple HTML Code:
 #### Visual hierarchy :
 
 * Most web users do not read entire pages. Rather, they skim to find information. You can use contrast to create a visual hierarchy that gets across your key message and helps users find what they are looking for:
+* 
 1. size
 2. color
 3. style
 4. Images
 
 * When making sense of a design, we tend to organize visual elements into groups. Grouping related pieces of information together can make a design easier to comprehend. Here are some ways this can be achieved:
+
 1. Proximity
 2. Closure
 3. Continuance
@@ -240,6 +242,7 @@ data in variables
 #### You may see JavaScript in the HTML between opening <script> and closing </script> tags
 
 **Thank You**
+
 *Sukina AbuHammad*
 
 
