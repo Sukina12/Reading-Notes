@@ -17,12 +17,12 @@
 | KIT          |[Click HERE](https://sukina12.github.io/GitSummary/ )|
 | MarkDown     |[Click HERE](https://sukina12.github.io/Markdown/) |
 |Growth Mindest|[Click HERE](https://sukina12.github.io/GrowthMindset)|
-| Computer Work|[Click HERE](https://sukina12.github.io/ReadingNotes/ComputerWork)|
-| HTML         |[Click HERE](https://sukina12.github.io/ReadingNotes/HTml )|
-|Introduction CSS|[Click HERE](https://sukina12.github.io/ReadingNotes/IntroductionCSS )|
-| Introduction JavaScript|[Click HERE](https://sukina12.github.io/ReadingNotes/JSIntro )|
-|Operators and Loops |[Click HERE](https://sukina12.github.io/ReadingNotes/OperatorsAndLoops )|
-| Script Web         |[Click HERE](https://sukina12.github.io/ReadingNotes/ScriptWeb )|
+| Computer Work|[Click HERE](https://sukina12.github.io/Reading-Notes/ComputerWork)|
+| HTML         |[Click HERE](https://sukina12.github.io/Reading-Notes/HTml )|
+|Introduction CSS|[Click HERE](https://sukina12.github.io/Reading-Notes/IntroductionCSS )|
+| Introduction JavaScript|[Click HERE](https://sukina12.github.io/Reading-Notes/JSIntro )|
+|Operators and Loops |[Click HERE](https://sukina12.github.io/Reading-Notes/OperatorsAndLoops )|
+| Script Web         |[Click HERE](https://sukina12.github.io/Reading-Notes/ScriptWeb )|
 
 
 
