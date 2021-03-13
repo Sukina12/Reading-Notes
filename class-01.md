@@ -119,14 +119,9 @@ Simple HTML Code:
 <figure> <figcaption>
 * It can be used to contain any content that is referenced from the main flow of an article (not just images).
 
-<!--
-<figure>
-<img src="images/bok-choi.jpg" alt="Bok Choi" />
-<figcaption>Bok Choi</figcaption>
-</figure>
--->
 
 ***************************************************************************************************************
+
 
 ## Process & Design:
 
@@ -164,6 +159,7 @@ Simple HTML Code:
 
 ***************************************************************************************************************
 
+
 # JafaScript Introduction 
 
 * JafaScript is a series of instructions that a coputer can follow to acheive a goal
@@ -173,6 +169,7 @@ Simple HTML Code:
 * JavaScript is the programming language of the Web.
 
 * JavaScript is easy to learn.
+* 
 
 #### JafaScript makes WebPages More interactive by:
 
@@ -182,11 +179,13 @@ Simple HTML Code:
 4. React to Events
 
 * To approch writing a scriot, break down your goal into a series of tasks and then work out eash step needed to complete that task ( using flow chart)
+* 
 
 #### An expression evaluates into a single value, there are tow expressions :
 
 1. Expression that assign a value to a variable
 2. Expression that use two or more values to a return a single value
+
 
 #### Functions:
 
