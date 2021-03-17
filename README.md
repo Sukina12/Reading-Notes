@@ -35,7 +35,7 @@
 | Class02      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-02)|
 | Class03      |[Click HERE]( https://sukina12.github.io/Reading-Notes/class-03)|
 | Class04      |[Click HERE]( https://sukina12.github.io/Reading-Notes/class-04 )|
-|              |[Click HERE]( )|
+| Class05      |[Click HERE]( https://sukina12.github.io/Reading-Notes/class-05 )|
 |              |[Click HERE]( )|
 |              |[Click HERE]( )|
 |              |[Click HERE]( )|
