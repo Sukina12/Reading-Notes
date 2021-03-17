@@ -53,14 +53,21 @@
 
 **********************************************************************
  ### Functions In Java Script:
-     * Function is a block of code to perform a particular task
-     * Excuted when we invoked or called it
-     *  function is defined with the function word followed by a function name, followed by parentheses ().
-     * Calling a function by function name followed by parentheses()
-     * Some function take and return values
+ 
+  * Function is a block of code to perform a particular task
+     
+  * Excuted when we invoked or called it
+ 
+ *  function is defined with the function word followed by a function name, followed by parentheses ().
+ 
+ * Calling a function by function name followed by parentheses()
+ 
+ * Some function take and return values
 
-     example:
-     ![Function](https://www.codeproject.com/KB/scripting/1130815/Function1-300x154.png)
+  example:
+     
+![Function](https://www.codeproject.com/KB/scripting/1130815/Function1-300x154.png)
+
 
 *Thank You*
 
