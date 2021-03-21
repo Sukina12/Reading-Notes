@@ -1,16 +1,18 @@
 # ReadingNotes
 
-## INTRO :
-#### Hi ...I'm Sukina AbuHammad, 31 years old, Graduated from Yarmouk University as a biomedical Engineer
+## INTRO
+
+### Hi ...I'm Sukina AbuHammad, 31 years old, Graduated from Yarmouk University as a biomedical Engineer
+
 #### This Opportunity will give me a chance to learn Programming and develope my skills as an Engineer
 
 [MyGitHub](https://github.com/Sukina12)
 
-## This is My web to view My Reading Notes in Code 102 and Code 201:
+## This is My web to view My Reading Notes in Code 102 and Code 201
 
+## Code 102 ReadingNotes
 
-# Code 102 ReadingNotes:
-## Table Of Contents:
+## Table Of Contents
 
 | content      | link                                                            |
 | -----------  | ----------------------------------------------------------------|
@@ -24,10 +26,9 @@
 |Operators and Loops |[Click HERE](https://sukina12.github.io/Reading-Notes/OperatorsAndLoops )|
 | Script Web         |[Click HERE](https://sukina12.github.io/Reading-Notes/ScriptWeb )|
 
+## Code 201 ReadingNotes
 
-
-# Code 201 ReadingNotes:
-## Table Of Contents:
+### Table Of Contents
 
 | content      | link                                                            |
 | -----------  | ----------------------------------------------------------------|
@@ -46,4 +47,3 @@
 |              |[Click HERE]( )|
 |              |[Click HERE]( )|
 |              |[Click HERE]( )|
-
