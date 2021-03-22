@@ -34,12 +34,12 @@
 | -----------  | ----------------------------------------------------------------|
 | Class01      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-01)|
 | Class02      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-02)|
-| Class03      |[Click HERE]( https://sukina12.github.io/Reading-Notes/class-03)|
-| Class04      |[Click HERE]( https://sukina12.github.io/Reading-Notes/class-04 )|
-| Class05      |[Click HERE]( https://sukina12.github.io/Reading-Notes/class-05 )|
-| Class06      |[Click HERE]( https://sukina12.github.io/Reading-Notes/class-06)|
-| Class07      |[Click HERE]( https://sukina12.github.io/Reading-Notes/class-07 )|
-| Class08      |[Click HERE]( https://sukina12.github.io/Reading-Notes/class-08 )|
+| Class03      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-03)|
+| Class04      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-04 )|
+| Class05      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-05 )|
+| Class06      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-06)|
+| Class07      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-07 )|
+| Class08      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-08)|
 |              |[Click HERE]( )|
 |              |[Click HERE]( )|
 |              |[Click HERE]( )|
