@@ -40,7 +40,7 @@
 | Class06      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-06)|
 | Class07      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-07 )|
 | Class08      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-08)|
-|              |[Click HERE]( )|
+| Class09      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-09)|
 |              |[Click HERE]( )|
 |              |[Click HERE]( )|
 |              |[Click HERE]( )|
