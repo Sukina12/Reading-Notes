@@ -1,4 +1,4 @@
-# Class 14 Summary:
+# Class 13 Summary:
 
 ## THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS :
 
