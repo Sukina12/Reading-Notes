@@ -45,5 +45,5 @@
 | Class11      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-11)|
 | Class12      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-12)|
 | Class13      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-13)|
-|              |[Click HERE]( )|
-|              |[Click HERE]( )|
+| Class14a     |[Click HERE](https://sukina12.github.io/Reading-Notes/class-14a)|
+| Class14b     |[Click HERE](https://sukina12.github.io/Reading-Notes/class-14b)|
