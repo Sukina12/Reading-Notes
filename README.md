@@ -17,9 +17,9 @@
 
 | content      | link                                                            |
 | -----------  | ----------------------------------------------------------------|
-| KIT          |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20102%20-%20Intro%20to%20Software%20Development/GitSummary/ )|
+| KIT          |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20102%20-%20Intro%20to%20Software%20Development/Kit/ )|
 | MarkDown     |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20102%20-%20Intro%20to%20Software%20Development/Markdown/) |
-|Growth Mindest|[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20102%20-%20Intro%20to%20Software%20Development/GrowthMindset)|
+|Growth Mindest|[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20102%20-%20Intro%20to%20Software%20Development/GrowthMS)|
 | Computer Work|[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20102%20-%20Intro%20to%20Software%20Development/ComputerWork)|
 | HTML         |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20102%20-%20Intro%20to%20Software%20Development/HTml )|
 |Introduction CSS|[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20102%20-%20Intro%20to%20Software%20Development/IntroductionCSS )|
