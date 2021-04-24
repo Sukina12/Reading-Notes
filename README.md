@@ -17,15 +17,15 @@
 
 | content      | link                                                            |
 | -----------  | ----------------------------------------------------------------|
-| KIT          |[Click HERE](https://sukina12.github.io/GitSummary/ )|
-| MarkDown     |[Click HERE](https://sukina12.github.io/Markdown/) |
-|Growth Mindest|[Click HERE](https://sukina12.github.io/GrowthMindset)|
-| Computer Work|[Click HERE](https://sukina12.github.io/Reading-Notes/ComputerWork)|
-| HTML         |[Click HERE](https://sukina12.github.io/Reading-Notes/HTml )|
-|Introduction CSS|[Click HERE](https://sukina12.github.io/Reading-Notes/IntroductionCSS )|
-| Introduction JavaScript|[Click HERE](https://sukina12.github.io/Reading-Notes/JSIntro )|
-|Operators and Loops |[Click HERE](https://sukina12.github.io/Reading-Notes/OperatorsAndLoops )|
-| Script Web         |[Click HERE](https://sukina12.github.io/Reading-Notes/ScriptWeb )|
+| KIT          |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20102%20-%20Intro%20to%20Software%20Development/GitSummary/ )|
+| MarkDown     |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20102%20-%20Intro%20to%20Software%20Development/Markdown/) |
+|Growth Mindest|[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20102%20-%20Intro%20to%20Software%20Development/GrowthMindset)|
+| Computer Work|[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20102%20-%20Intro%20to%20Software%20Development/ComputerWork)|
+| HTML         |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20102%20-%20Intro%20to%20Software%20Development/HTml )|
+|Introduction CSS|[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20102%20-%20Intro%20to%20Software%20Development/IntroductionCSS )|
+| Introduction JavaScript|[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20102%20-%20Intro%20to%20Software%20Development/JSIntro )|
+|Operators and Loops |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20102%20-%20Intro%20to%20Software%20Development/OperatorsAndLoops )|
+| Script Web         |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20102%20-%20Intro%20to%20Software%20Development/ScriptWeb )|
 
 **************************************************************************************************************
 
@@ -35,21 +35,21 @@
 
 | content      | link                                                            |
 | -----------  | ----------------------------------------------------------------|
-| Class01      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-01)|
-| Class02      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-02)|
-| Class03      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-03)|
-| Class04      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-04 )|
-| Class05      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-05 )|
-| Class06      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-06)|
-| Class07      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-07 )|
-| Class08      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-08)|
-| Class09      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-09)|
-| Class10      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-10)|
-| Class11      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-11)|
-| Class12      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-12)|
-| Class13      |[Click HERE](https://sukina12.github.io/Reading-Notes/class-13)|
-| Class14a     |[Click HERE](https://sukina12.github.io/Reading-Notes/class-14a)|
-| Class14b     |[Click HERE](https://sukina12.github.io/Reading-Notes/class-14b)|
+| Class01      |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-01)|
+| Class02      |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-02)|
+| Class03      |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-03)|
+| Class04      |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-04 )|
+| Class05      |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-05 )|
+| Class06      |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-06)|
+| Class07      |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-07 )|
+| Class08      |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-08)|
+| Class09      |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-09)|
+| Class10      |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-10)|
+| Class11      |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-11)|
+| Class12      |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-12)|
+| Class13      |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-13)|
+| Class14a     |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-14a)|
+| Class14b     |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20201%20-%20Foundations%20of%20Software%20Development/class-14b)|
 
 **************************************************************************************************************
 
