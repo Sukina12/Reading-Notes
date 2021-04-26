@@ -60,7 +60,7 @@
 | content      | link                                                            |
 | -----------  | ----------------------------------------------------------------|
 |    Class01  |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/Class01)|
-|      |[Click HERE]()|
+| Class02     |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/Class02)|
 |      |[Click HERE]()|
 |      |[Click HERE]()|
 |      |[Click HERE]()|
