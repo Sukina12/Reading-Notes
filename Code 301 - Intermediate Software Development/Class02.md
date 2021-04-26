@@ -40,4 +40,18 @@
 
 ### Element Variables 
 
-* You can use variables to store elements. This can help you conditionally render a part of the component while the rest of the output doesn’t change.
+* We can use variables to store elements. This can help us conditionally render a part of the component while the rest of the output doesn’t change.
+
+### Preventing Component from Rendering:
+
+* if we  want a component to hide itself even though it was rendered by another component. return null instead of its render output.
+
+* Returning null from a component’s render method does not affect the firing of the component’s lifecycle methods. For instance componentDidUpdate will still be called.
+
+
+###### The Sorces:
+[state-and-lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+
+[handling-events](https://reactjs.org/docs/handling-events.html)
+
+[conditional-rendering](https://reactjs.org/docs/conditional-rendering.html)
