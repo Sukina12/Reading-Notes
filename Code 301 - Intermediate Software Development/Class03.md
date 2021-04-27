@@ -83,5 +83,16 @@ inside the personal object.
 
 this.props.increment (this.props.name);
 
+****************************************************************************************************
+
+#### Sources:
+[source1](https://reactjs.org/docs/lists-and-keys.html)
+
+[source2](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
+
+[source3](https://www.youtube.com/watch?v=c05OL7XbwXU)
+
+
+
 
 
