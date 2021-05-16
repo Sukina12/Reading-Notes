@@ -38,7 +38,7 @@
 
 * Resource Owner Password Flow : exchanging the username and password of a user for an access token and, optionally, a refresh token. ... The primary difference is that the user's password is accessible to the application. This requires strong trust of the application by the user.
 
-[img](https://www.oreilly.com/library/view/getting-started-with/9781449317843/httpatomoreillycomsourceoreillyimages986441.png)
+![img](https://www.oreilly.com/library/view/getting-started-with/9781449317843/httpatomoreillycomsourceoreillyimages986441.png)
 
 *****************************************************************************************************
 
