@@ -48,5 +48,10 @@
 ![NOSQL](https://cdn.educba.com/academy/wp-content/uploads/2019/05/what-is-Nosql-database1.png)
 
 
+* Sources:
+
+[source1](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_s)
+
+[source2](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 
 
