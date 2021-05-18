@@ -72,7 +72,7 @@
 | Class11     |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/Class11)|
 |Class12      |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/Class12)|
 |Class13      |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/Class13)|
-|      |[Click HERE]()|
+|Class14      |[Click HERE](https://sukina12.github.io/Reading-Notes/Code%20301%20-%20Intermediate%20Software%20Development/Class14)|
 |      |[Click HERE]()|
 
 **************************************************************************************************************
