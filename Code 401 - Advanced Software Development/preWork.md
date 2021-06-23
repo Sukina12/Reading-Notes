@@ -62,6 +62,8 @@
   * example multiple lane :
 
   ![image2](https://www.mindtools.com/media/Diagrams/5_Whys_Figure_2_multiple_lanes.jpg)
+  
+  
 5. "Know when to stop" : " if you're not sure that you've uncovered the real root cause, consider using a more in-depth problem-solving technique".
 6. "Adress the root cause" : discuss and agree on the counter-measures that will prevent the problem from recurring.
 7. "Monitor your measures " : the measures must minimize the initial problem, you may need to replace them and repeate the 5 whys process .
