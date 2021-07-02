@@ -87,7 +87,7 @@
 | Class02    |[Click HERE](https://sukina12.github.io/Reading-Notes//Code%20401%20-%20Advanced%20Software%20Development/Class02)|
 | Class03    |[Click HERE](https://sukina12.github.io/Reading-Notes//Code%20401%20-%20Advanced%20Software%20Development/Class03)|
 |Class04     |[Click HERE](https://sukina12.github.io/Reading-Notes//Code%20401%20-%20Advanced%20Software%20Development/Class04)|
-|     |[Click HERE]()|
+| Class05    |[Click HERE](https://sukina12.github.io/Reading-Notes//Code%20401%20-%20Advanced%20Software%20Development/Class05)|
 |     |[Click HERE]()|
 |     |[Click HERE]()|
 |     |[Click HERE]()|
