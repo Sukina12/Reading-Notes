@@ -47,3 +47,7 @@
 [source1](https://gosink.in/react-js-how-to-render-useeffect-only-once/)
 
 [source2](https://www.linkedin.com/pulse/provide-callback-usestate-hook-like-setstate-saransh-kataria/)
+
+[source3](https://blog.logrocket.com/guide-to-react-usereducer-hook/)
+
+[source4](https://reactjs.org/docs/hooks-reference.html#usereducer)
