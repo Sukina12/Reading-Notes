@@ -72,4 +72,7 @@
      4. Airline Traffic
      5. Netflix uses graphs for suggestions of products
 
+#### Sources:
+[Graphs](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/graphs.html)
+
 
