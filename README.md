@@ -112,3 +112,4 @@
 | Class33  |[Click HERE](https://sukina12.github.io/Reading-Notes//Code%20401%20-%20Advanced%20Software%20Development/Class33)|
 | Class34  |[Click HERE](https://sukina12.github.io/Reading-Notes//Code%20401%20-%20Advanced%20Software%20Development/Class34)|
 |Graphs |[Click HERE](https://sukina12.github.io/Reading-Notes//Code%20401%20-%20Advanced%20Software%20Development/Graphs)|
+| Class36  |[Click HERE](https://sukina12.github.io/Reading-Notes//Code%20401%20-%20Advanced%20Software%20Development/Class36)|
